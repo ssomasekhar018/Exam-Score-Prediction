@@ -113,10 +113,5 @@ After processing, the app appends a `predicted_score` column and lets you downlo
 
 ---
 
-## 📜 License
-- This project’s license is not specified. Add a `LICENSE` file if you plan to share or open‑source.
-
----
-
 ## 🌟 Credits
 - Built with Streamlit, scikit‑learn, Pandas, NumPy, and Altair.
